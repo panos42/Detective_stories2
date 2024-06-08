@@ -9,7 +9,7 @@ public class PasswordCheck2 : MonoBehaviour
     public InputField passwordInputField;
     
     public Button submitButton;
-    public string correctPassword = "Harriot Cole";
+    public string correctPassword = "Harriot Weiselbaum";
 
     public Text SuspectFound;
     public Text CharacterText;

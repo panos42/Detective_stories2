@@ -94,6 +94,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
+    <Compile Include="Assets\Code\Level3Intro.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
     <Compile Include="Assets\Code\PlayerMovement.cs" />
     <Compile Include="Assets\Code\PasswordCheck2.cs" />
@@ -107,7 +108,10 @@
     <Compile Include="Assets\audio.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
     <Compile Include="Assets\Code\ComputerCheck.cs" />
+    <Compile Include="Assets\Code\Level2Intro.cs" />
     <Compile Include="Assets\Code\ComputerCheck2.cs" />
+    <Compile Include="Assets\Code\Level1Intro.cs" />
+    <Compile Include="Assets\Code\PasswordCheck3.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
   </ItemGroup>
   <ItemGroup>
